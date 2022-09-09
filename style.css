@@ -85,6 +85,17 @@ h3 {
   width: 200px;
 }
 
+button {
+  border: none;
+  background: none;
+  font-size: 23px;
+  color: #333333;
+  position: relative;
+  top: -45px;
+  cursor: pointer;
+  left: 20px;
+}
+
 .fas {
   font-size: 30px;
   color: rgb(129, 129, 129);
